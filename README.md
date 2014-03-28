@@ -7,24 +7,24 @@
 
 Week One – Module 1: Introduction and Background
 
-*   Lecture 1: Historical Perspective
-*   Lecture 2: What is a Web Application?
-*   Lecture 3: Web 1.0, 2.0, 3.0 Application Architectures
-*   Lecture 4: Design Patterns
-*   Lecture 5: Setting up Your Development Environment
+*   ~~Lecture 1: Historical Perspective~~
+*   ~~Lecture 2: What is a Web Application?~~
+*   ~~Lecture 3: Web 1.0, 2.0, 3.0 Application Architectures~~
+*   ~~Lecture 4: Design Patterns~~
+*   ~~Lecture 5: Setting up Your Development Environment~~
 
 Week Two – Module 2: Ruby on Rails
 
-*   Lecture 1: Rails Overview
-*   Lecture 2: Your First Rails App
-*   Lecture 3: The Blog App – Iteration 1
-*   Lecture 4: Rails Philosophy
-*   Lecture 5: Version Control
-*   Lecture 6: Git and Rails
+*   ~~Lecture 1: Rails Overview~~
+*   ~~Lecture 2: Your First Rails App~~
+*   ~~Lecture 3: The Blog App – Iteration 1~~
+*   ~~Lecture 4: Rails Philosophy~~
+*   ~~Lecture 5: Version Control~~
+*   ~~Lecture 6: Git and Rails~~
    
 Week Three – Module 3: Database Interactions
 
-*   Lecture 1: Relational Databases
+*   ~~Lecture 1: Relational Databases~~
 *   Lecture 2: Databases in Rails
 *   Lecture 3: The Active Record Design Pattern
 *   Lecture 4: The Blog App – Iteration 2 (Associations)
